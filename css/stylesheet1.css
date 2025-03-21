@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, Arial, Calibri;
+    font-size: 150%;
+  }
+  nav {
+    background-color: #edf;
+    padding: 2%;
+  }
+  h1 {
+    font-variant: small-caps;
+    font-family: Cursive;
+    color: #8E24AA;
+    text-align: center;
+  }
+  header {
+    background-color: #fff666;
+    padding: 2%;
+  }
+  main {
+    background-color: #fde323;
+    padding: 2%;
+  }
+  footer {
+    background-color: #edf;
+    padding: 2%;
+  }
+  li {
+    display: inline-block;
+    width: 30%;
+  }
+  p {
+    line-height: 150%;
+  }
+  img {
+    display: inline-block;
+  }
